@@ -1,5 +1,5 @@
 # betting-wettbasis
-Get best bets from wettbasis.com
+Get best bets from [wettbasis.com](https://www.wettbasis.com/).
 
 ## Getting Started
 1. Install the requirements
