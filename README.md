@@ -12,4 +12,5 @@ $ python main.py
 ```
 
 ### Disclaimer
-The script might not work on future website changes. Please keep fair use policy in mind.
+The script might not work with future website changes. Please keep fair use policy in mind.
+Please Gamble Responsibly.
